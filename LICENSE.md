@@ -1,4 +1,4 @@
-# 
+# Élite FL Studio flujo de trabajo para Mac OS | Código abierto FL Studio flujo de trabajo para PC Windows. Con instrumentos virtuales y corte automático — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
